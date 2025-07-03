@@ -1,11 +1,18 @@
 function card(){
-    return(
-        <div> className="card"
-            <h2>
+    return (
+        <div>clssName="card
+            <imng></imng>
+            <h1>
                 DEVYANSH BATRA
-            </h2>
+            </h1>
+            
+            <h2 className="card-title">
+                Innovator
+
+            </h2> 
+
             <p>
-                I am an innovator
+                I am very good boy and loves to play football
             </p>
 
         </div>
